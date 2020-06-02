@@ -1,0 +1,23 @@
+{
+    "name": "restful-api-exercise",
+    "version": "1.0.0",
+    "description": "Developing a generic RESTful API using Javascript, Node.JS, Express.JS and MongoDB.",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kenji404/restful-api-exercise.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kenji404/restful-api-exercise/issues"
+    },
+    "homepage": "https://github.com/Kenji404/restful-api-exercise#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.4"
+    }
+}
